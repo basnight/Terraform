@@ -5,7 +5,7 @@ Windows
 
 (or)
 
-  2.Use GitHub Codespaces (Free for 60 hours per month)
+  2. Use GitHub Codespaces (Free for 60 hours per month)
 
    - Login to your GitHub account
    - Click on the Profile Icon to the top right
