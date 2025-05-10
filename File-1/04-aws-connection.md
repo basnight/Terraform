@@ -26,8 +26,7 @@ c. Click on "Users" in the left navigation pane and then click "Add user."
 
 Use the AWS CLI to configure your credentials. Open a terminal and run:
 
-##
-<tab><tab>aws configure
+aws configure
 
 It will prompt you to enter your AWS Access Key ID, Secret Access Key, default region, and default output format. Enter the credentials you obtained in the previous step.
 
